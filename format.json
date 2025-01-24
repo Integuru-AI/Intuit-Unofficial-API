@@ -1,0 +1,63 @@
+{
+    "returnId": "39657025-3b45-43ee-bda8-60ecfd847116",
+    "clientId": "7bf356a6-78e5-40e0-ae1e-7d82efa21cc8",
+    "ind": {
+        "detail": {
+            "s11": {
+                "p": [{
+                    "id": "1",
+                    "linked211": [{
+                        "c212": {"amt": "121233", "src": "CA"},
+                        "c211": {"desc": "E"},
+                        "c213": {"amt": "2001"}
+                    }],
+                    "linked816": [{
+                        "c808": {"desc": "eidnum"},
+                        "id": 1
+                    }],
+                    "c29": {"x": [{"desc": "L"}]},
+                    "c31": {"x": [{"desc": "C"}]},
+                    "c44": {"x": [{"amt": "2000", "src": "CA"}]},
+                    "c46": {"x": [{"desc": "P"}]},
+                    "c55": {"x": [{"amt": "2009"}]},
+
+                    "c800": {"x": [{"desc": "employer"}]},
+                    "c805": {"x": [{"desc": "streetadd"}]},
+                    "c806": {"x": [{"desc": "city"}]},
+                    "c807": {"x": []},
+
+                    "c88": {"x": [{"desc": ""}]},
+
+                    "c810": {"x": [{"desc": "Ken Kantzer", "importSource": ["isCalculated"]}]},
+                    "c811": {"x": [{"desc": "10002 Mattock Ave", "importSource": ["isCalculated"]}]},
+                    "c812": {"x": [{"desc": "Downey", "importSource": ["isCalculated"]}]},
+                    "c820": {"x": [{"desc": "st"}]},
+                    "c821": {"x": [{"desc": "zip"}]},
+                    "c822": {"x": [{"desc": "CA", "importSource": ["isCalculated"]}]},
+                    "c823": {"x": [{"desc": "90240", "importSource": ["isCalculated"]}]},
+
+                    "c841": {"x": [{"desc": "reg"}]},
+                    "c842": {"x": [{"desc": "999"}]},
+                    "c843": {"x": [{"desc": "Afghanistan"}]},
+
+                    "c282": {"x": [{"amt": "1"}]},
+
+                    "c832": {"x": []},
+                    "c68": {"x": []},
+                    "c833": {"x": []},
+                    "c834": {"x": []}
+                }],
+                "editable": true
+            },
+            "s1": {
+                "general": {
+                    "id": "0"
+                }
+            }
+        }
+    },
+    "version": {
+        "s1": "d060cf90-bf27-11ef-bd36-cd3e4e80d1ec",
+        "s11": "ae0b73d0-d7c5-11ef-a51b-1161dbb311a8"
+    }
+}
